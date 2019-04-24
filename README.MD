@@ -8,3 +8,7 @@ Implementing the amazing library: https://github.com/nfnt/resize in order to use
 4.  Get the images on the results folder.
 
 
+#To do:
+[ ] Get specs from a json file.
+[ ] Support more formats.
+[ ] Document it better...
